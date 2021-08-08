@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**BalaSubramaniamG/BalaSubramaniamG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello i'm Bala Subramaniam
+<hr>
+💻 I make HTML & CSS websites (with a hint of JS)<br>
+🤔 I am learning some python libraries<br>
+👤 I am a 15 year old student<br>
+📚 I read Fiction Novels<br>
+🎮 I play good story-based open world story games (and some Rocket League)<br>
+🧐 I am aninquisitive person and I am well versed in multiple topics<br>
+<hr>
+<a href="https://balasubramaniamg.github.io/website/">Check out my website!<a>
+  
+  
+  
